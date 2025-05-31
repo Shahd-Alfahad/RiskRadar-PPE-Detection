@@ -36,22 +36,6 @@ Construction sites remain some of the most dangerous workplaces globally. RiskRa
 - Python, OpenCV, NumPy, scikit-learn, PyTorch, Ultralytics YOLO
 - Jupyter Notebook, Roboflow, Matplotlib, Seaborn
 
-## 🏆 Achievements
 
-- 📍 Finalist at **12th Undergraduate Research and Innovation Competition (URIC 2025)**  
-- Successfully compared classical ML (SVM) vs deep learning (YOLO) for image-based safety detection
 
-## 👥 Team
-
-- **Shahd Alfahad** – Dataset, Experiments, Results  
-- **Shdan Alsheddi** – Related Works, Experiments  
-- **Shaden Albader** – Introduction, Methods, Conclusion  
-- **Hend Al Ghamdi** – Experiments, Results  
-
-## 📄 License
-
-Dataset licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
-
----
-
-> 🚀 *Developed at King Saud University — IT 461 Course, 1446H*
+> 🚀 *Developed at King Saud University — IT 461-ML Course, 1446H*
