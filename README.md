@@ -38,4 +38,4 @@ Construction sites remain some of the most dangerous workplaces globally. RiskRa
 
 
 
-> 🚀 *Developed at King Saud University — IT 461-ML Course, 1446H*
+> King Saud University — IT 461-ML Course, 1446H*
