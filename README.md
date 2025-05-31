@@ -30,17 +30,6 @@ Construction sites remain some of the most dangerous workplaces globally. RiskRa
 - Size: 2,605 training images, 114 validation, 82 test  
 - Classes: Helmet, No-Helmet, Mask, No-Mask, Gloves, Safety Vest, etc.
 
-## 📂 Project Structure
-
-```
-RiskRadar-PPE-Detection/
-│
-├── RiskRadar_Report.pdf            # Full project documentation
-├── RiskRadar_SVM.ipynb             # SVM baseline model (HOG features)
-├── RiskRadar_YOLO11.ipynb          # YOLOv11 model (training + tuning)
-├── dataset_info/                   # Dataset info or description (optional)
-└── README.md                       # This file
-```
 
 ## 🛠️ Technologies
 
